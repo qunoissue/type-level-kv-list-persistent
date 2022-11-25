@@ -1,5 +1,5 @@
 name: type-level-kv-list-persistent
-version: "0.1.0.0"
+version: "0.2.0.0"
 category: "Data"
 synopsis: "Make Persistent Raw SQL handy with type-level-kv-list"
 description:
