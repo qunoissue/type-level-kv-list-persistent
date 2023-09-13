@@ -65,6 +65,7 @@ library
       RecordWildCards
       ScopedTypeVariables
       StandaloneDeriving
+      Strict
       StrictData
       TupleSections
       TypeFamilies
